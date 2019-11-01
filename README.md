@@ -4,4 +4,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## About App
 
-In this tiny small app I showed simple Redux - Store workflow without configuration file.
+In this tiny small app I've showed simple Redux - Store workflow without configuration file.
